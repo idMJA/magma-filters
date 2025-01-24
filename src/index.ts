@@ -1,2 +1,2 @@
-import { magmastreamPlugin } from "./plugin";
-export = magmastreamPlugin;
+import { magmaFilters } from "./plugin";
+export = magmaFilters;
