@@ -1,5 +1,5 @@
 # magma-filters
-A plugin that allows you to set filter faster in magmastream
+A plugin that allows you to set filter faster in Magmastream
 
 Install
 ```
