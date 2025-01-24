@@ -2,7 +2,7 @@ import { Plugin, Structure } from "magmastream";
 import { FilterRoot } from "./type";
 import data from "./data";
 
-export class magmastreamPlugin extends Plugin {
+export class magmaFilters extends Plugin {
 	public load() {
 		Structure.extend(
 			"Player",
