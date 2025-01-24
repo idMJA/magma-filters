@@ -1,7 +1,7 @@
 {
   "name": "magma-filters",
   "version": "1.0.0",
-  "description": "A plugin that allows you to set filters faster in magmastream",
+  "description": "A plugin that allows you to set filters faster in Magmastream",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
