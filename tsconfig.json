@@ -3,7 +3,7 @@
 		/* Basic Options */
 		"lib": ["ESNext"],
 		"target": "ESNext",
-		"module": "commonjs",
+		"module": "CommonJS",
 		"declaration": true,
 		"outDir": "./dist",
 		"rootDir": "./src",
