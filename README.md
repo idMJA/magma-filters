@@ -3,7 +3,7 @@ A plugin that allows you to set filter faster in Kazagumo
 
 Install
 ```
-npm i magmafilters
+npm i magma-filters
 ```
 
 Support filter:
