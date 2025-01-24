@@ -1,5 +1,5 @@
 # magma-filters
-A plugin that allows you to set filter faster in Kazagumo
+A plugin that allows you to set filter faster in magmastream
 
 Install
 ```
