@@ -1,7 +1,7 @@
 {
   "name": "magma-filters",
-  "version": "2.0.0",
-  "description": "A plugin that allows you to set filter faster in Kazagumo",
+  "version": "1.0.0",
+  "description": "A plugin that allows you to set filter faster in magmastream",
   "main": "dist/index.js",
   "scripts": {
     "build": "npm-run-all build:remove:discordjs build:typescript build:add:discordjs",
@@ -9,16 +9,16 @@
     "build:add:discordjs": "npm i discord.js",
     "build:typescript": "tsc"
   },
-  "author": "RainyXeon",
-  "license": "ISC",
+  "author": "Kenver",
+  "license": "Appache",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RainyXeon/kazagumo-filter.git"
+    "url": "git+https://github.com/Kenver123/magma-filters.git"
   },
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/RainyXeon/kazagumo-filter#readme",
+  "homepage": "https://github.com/Kenver123/magma-filters#readme",
   "devDependencies": {
     "@types/node": "^18.11.9",
     "dotenv": "^16.0.3",
